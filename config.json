@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "asptraining"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-asptraining-429cc1cd-f02f-4590-b71d-c76ab09a0327;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
